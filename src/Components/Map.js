@@ -356,7 +356,7 @@ A fost reînfiinţat ca judeţ de sine stătător la 17 februarie 1968, când a 
     ],
     "Dolj": [
       {
-        "image" : "https://upload.wikimedia.org/wikipedia/commons/7/7a/Craiova_-_Centrul.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Craiova_-_Centrul.JPG",
         "text": `Istoria județului Dolj se întinde peste mai multe milenii și cuprinde perioade de subordonare la diferite imperii și state, precum și participarea la conflicte și evenimente regionale și naționale.
 
         Încă din antichitate, regiunea a fost locuită de diferite popoare și culturi, inclusiv de către triburile dacice și romane. După căderea Imperiului Roman, județul a devenit parte a Imperiului Bizantin, iar mai târziu a fost controlat de diferite state medievale, inclusiv de către Regatul Munteniei.
@@ -371,7 +371,7 @@ A fost reînfiinţat ca judeţ de sine stătător la 17 februarie 1968, când a 
     "Galați": [
       {
         "image": "https://urlaub-in-rumänien.de/wp-content/uploads/2021/01/galati-kreis-1-1.jpg",
-        "text":  `Judetul Galați a fost înființat în anul 1968, prin fuzionarea mai multor comitate istorice din zonă. Regiunea a avut o istorie bogată, cu influențe culturale diverse, începând cu perioada dacică și continuând cu perioada otomană, a dominației maghiare și a regatului României moderne.
+        "text": `Judetul Galați a fost înființat în anul 1968, prin fuzionarea mai multor comitate istorice din zonă. Regiunea a avut o istorie bogată, cu influențe culturale diverse, începând cu perioada dacică și continuând cu perioada otomană, a dominației maghiare și a regatului României moderne.
 
         În secolul al XIX-lea, judetul Galați a cunoscut o perioadă de dezvoltare economică rapidă, în special în sectorul industrial. Aici s-au dezvoltat importante uzine de fier și oțel, precum și o flotă navală puternică pe Dunăre.
         
@@ -519,8 +519,8 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
     ],
     "Mureș": [
       {
-      "image": "https://www.tgm.ro/old/images/large_centru-tgm-1.jpg",
-      "text": `Judetul Mureș are o istorie lungă și bogată, care se întinde până în perioada dacică. Triburile dacice au locuit în zona care acum este inclusă în judetul Mureș și au lăsat o moștenire culturală importantă.
+        "image": "https://www.tgm.ro/old/images/large_centru-tgm-1.jpg",
+        "text": `Judetul Mureș are o istorie lungă și bogată, care se întinde până în perioada dacică. Triburile dacice au locuit în zona care acum este inclusă în judetul Mureș și au lăsat o moștenire culturală importantă.
 
       În secolul al III-lea, zona a fost cucerită de către Imperiul Roman, iar mai târziu a fost sub influența regatului ungar. În perioada medievală, judetul Mureș a fost locuit de un număr de grupuri etnice, inclusiv maghiari, sasi și sași.
       
@@ -531,9 +531,9 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
       Astăzi, judetul Mureș este cunoscut pentru patrimoniul său istoric și cultural, cu numeroase muzee, biserici și castele care reflectă istoria sa diversă și bogată.`
       },
 
-      ],
-      "Neamț":[
-        {
+    ],
+    "Neamț": [
+      {
         "image": "https://www.ziarpiatraneamt.ro/wp-content/uploads/2013/06/piatra-neamt-poze-vechi-2.jpg",
         "text": `Judetul Neamț are o istorie lungă și importantă în contextul istoriei României. Încă din perioada dacică, zona a fost locuită de triburi care au lăsat o moștenire culturală și arheologică importantă.
 
@@ -544,13 +544,13 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
         În secolul al XIX-lea, judetul Neamț a devenit parte a Regatului României și a început să se dezvolte, cu o economie bazată pe agricultură și industrie. În această perioadă, judetul Neamț a fost un important centru cultural și intelectual, cu numeroși scriitori, artiști și personalități importante care au trăit și au creat în zonă.
         
         Astăzi, judetul Neamț este cunoscut pentru patrimoniul său istoric și cultural, cu numeroase muzee, biserici și palate care reflectă istoria sa importantă și diversă. De asemenea, judetul Neamț are o economie dinamică și oameni talentați și dedicați care lucrează pentru a construi un viitor mai bun pentru toți locuitorii săi.`
-        },
+      },
 
-      ],
-      "Olt":[
-        {
-           "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Podul_Olt.jpg",
-           "text": `Judetul Olt are o istorie importantă legată de domnitorii care au condus zona în decursul secolelor.
+    ],
+    "Olt": [
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Podul_Olt.jpg",
+        "text": `Judetul Olt are o istorie importantă legată de domnitorii care au condus zona în decursul secolelor.
 
            În secolul al XIV-lea, judetul Olt a devenit parte a Țării Românești, condusă de către domnitori ca Mircea cel Bătrân și Vlad Țepeș. Acestia au consolidat puterea țării și au început să construiască biserici și fortificații importante în zonă.
            
@@ -559,13 +559,13 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
            În secolul al XIX-lea, judetul Olt a devenit parte a Regatului României și a început să se dezvolte, cu o economie bazată pe agricultură și industrie. În această perioadă, zona a avut parte de domnitori importanți ca Carol I și Ferdinand, care au avut un impact important asupra istoriei țării.
            
            Astăzi, judetul Olt este cunoscut pentru istoria sa importantă legată de domnitori și pentru patrimoniul său cultural, cu numeroase muzee, biserici și palate care reflectă istoria sa diversă. De asemenea, judetul Olt are oameni talentați și dedicați care lucrează pentru a construi un viitor mai bun pentru toți locuitorii săi.`
-        },
+      },
 
-     ],
-     "Satu Mare": [
+    ],
+    "Satu Mare": [
       {
-         "image": "https://i.pinimg.com/originals/0d/65/8a/0d658a973491c76a9ad48d6160b053d3.jpg",
-         "text":`În perioada dacică, zona a fost ocupată de triburile celtice, care au lăsat o moștenire culturală importantă în zonă.
+        "image": "https://i.pinimg.com/originals/0d/65/8a/0d658a973491c76a9ad48d6160b053d3.jpg",
+        "text": `În perioada dacică, zona a fost ocupată de triburile celtice, care au lăsat o moștenire culturală importantă în zonă.
 
          În secolul al X-lea, judetul a devenit parte a regatului ungar, unde a fost condusă de către nobili maghiari.
          
@@ -582,11 +582,11 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
          Astăzi, judetul Satu Mare este una dintre regiunile cu o dezvoltare economică și culturală în creștere din România.`
       },
 
-   ],
-   "Sălaj" : [
-    {
-       "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Fildu_de_Sus.NV.jpg",
-       "text": `În secolul al X-lea, judetul a devenit parte a regatului ungar, unde a fost condusă de către nobili maghiari.
+    ],
+    "Sălaj": [
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Fildu_de_Sus.NV.jpg",
+        "text": `În secolul al X-lea, judetul a devenit parte a regatului ungar, unde a fost condusă de către nobili maghiari.
 
        În secolul al XIII-lea, judetul Sălaj a devenit parte a Maramureșului, o regiune condusă de către nobili maghiari.
        
@@ -599,34 +599,34 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
        În perioada interbelică, judetul a înregistrat o dezvoltare economică importantă, cu un număr crescând de industrii și culturi agricole.
        
        În perioada comunistă, judetul a fost supus unor restricții politice și economice, dar a reușit totuși să păstreze o identitate culturală puternică.`
-    },
+      },
 
- ],
- "Suceava": [
-  {
-     "image": "https://orasulsuceava.ro/files/2019/05/suceava-de-altadata-13-2.jpg",
-     "text": `În secolul al XIII-lea, Suceava a devenit un important centru al statelor feudale moldave, sub domnia lui Bogdan I. Acesta a fondat un important centru cultural și religios în oraș, care a devenit cunoscut sub numele de Mitropolia Moldovei.
+    ],
+    "Suceava": [
+      {
+        "image": "https://orasulsuceava.ro/files/2019/05/suceava-de-altadata-13-2.jpg",
+        "text": `În secolul al XIII-lea, Suceava a devenit un important centru al statelor feudale moldave, sub domnia lui Bogdan I. Acesta a fondat un important centru cultural și religios în oraș, care a devenit cunoscut sub numele de Mitropolia Moldovei.
 
      În secolul al XIV-lea, Suceava a devenit capitala Moldovei, sub domnia lui Petru I Mușat. Acesta a transformat orașul într-un important centru al puterii și culturii, cu o serie de clădiri importante, cum ar fi castelul de pe Dealul Cetățuia și Biserica Înălțării Domnului.
      
      În secolele următoare, Suceava a continuat să joace un rol important în istoria Moldovei, fiind un important centru al culturii, economiei și politicei.
      
      În perioada modernă, Suceava a continuat să se dezvolte, cu o serie de proiecte de infrastructură și dezvoltare economică, cum ar fi construirea căilor ferate și a hidrocentralei.`
-  },
+      },
 
-],
-"Teleorman":[
-  {
-     "image": "https://www.aerotravel.ro/blog/wp-content/uploads/Teleorman-Zimnicea.jpg",
-     "text": `Județul Teleorman a fost o unitate administrativă de ordinul întâi din Vechiul Regat al României (existent în perioada antebelică).Teleorman este unul dintre cele mai vechi județe ale României, existând încă de pe vremea Țării Românești (Valahia). Din 1601, Teleorman a fost unul dintre ținuturile Valahiei după asasinarea lui Mihai Viteazul. Pe acea vreme Teleormanul era înconjurat de ținutul Olt, ținutul Argeș și ținutul Vlașca. De asemenea, ținutul Teleorman mai avea graniță și cu raiaua Turnu, dar și cu Imperiul Otoman.  Județul antebelic Teleorman era împărțit în 3 plăși: Târgului cu reședința Roșiori, Teleormanului cu reședința Balaci, și Călmățuiul-Marginea (formată în 1882 prin unirea plășilor Călmățuiul cu reședința Râioasa și, mai apoi Turnu Măgurele și Marginea cu reședința Brânceni și, mai apoi Alexandria). Județul avea 4 comune urbane, 127 comune rurale. Comunele urbane ale județului erau Turnu Măgurele, Roșiori de Vede, Zimnicea și Alexandria. Între 1417–1829 cât timp Turnu Măgurele a făcut parte din raiaua Turnu (Kaza Kule) a Imperiului Otoman, reședința județului a fost Roșiori de Vede. Înte 1837-1839 reședința a fost Zimnicea, iar din 1839 Turnu Măgurele.`
-  },
+    ],
+    "Teleorman": [
+      {
+        "image": "https://www.aerotravel.ro/blog/wp-content/uploads/Teleorman-Zimnicea.jpg",
+        "text": `Județul Teleorman a fost o unitate administrativă de ordinul întâi din Vechiul Regat al României (existent în perioada antebelică).Teleorman este unul dintre cele mai vechi județe ale României, existând încă de pe vremea Țării Românești (Valahia). Din 1601, Teleorman a fost unul dintre ținuturile Valahiei după asasinarea lui Mihai Viteazul. Pe acea vreme Teleormanul era înconjurat de ținutul Olt, ținutul Argeș și ținutul Vlașca. De asemenea, ținutul Teleorman mai avea graniță și cu raiaua Turnu, dar și cu Imperiul Otoman.  Județul antebelic Teleorman era împărțit în 3 plăși: Târgului cu reședința Roșiori, Teleormanului cu reședința Balaci, și Călmățuiul-Marginea (formată în 1882 prin unirea plășilor Călmățuiul cu reședința Râioasa și, mai apoi Turnu Măgurele și Marginea cu reședința Brânceni și, mai apoi Alexandria). Județul avea 4 comune urbane, 127 comune rurale. Comunele urbane ale județului erau Turnu Măgurele, Roșiori de Vede, Zimnicea și Alexandria. Între 1417–1829 cât timp Turnu Măgurele a făcut parte din raiaua Turnu (Kaza Kule) a Imperiului Otoman, reședința județului a fost Roșiori de Vede. Înte 1837-1839 reședința a fost Zimnicea, iar din 1839 Turnu Măgurele.`
+      },
 
-],
+    ],
 
-"Tulcea":[
-  {
-     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tulcea_1896.JPG",
-     "text": `Cele mai vechi urme de locuire din zona orașului datează de acum circa 5–6000 de ani. Prin anii 600–500î.e.n. aici a existat și o cetate getică, care a avut continuitate și după cucerirea romană care a survenit după sfârșitul domniei regelui get Burebista pe la 44î.e.n. Tulcea actuală a fost fondată în dreptul unui vad pe Dunăre în timpul stăpânirii otomane a regiunii, care a început pe la 1420. Fiind mare parte din timp într-o zonă de graniță, orașul a fost adesea distrus în timpul războaielor ruso-turce, ultimul și cel mai distrugător pentru Tulcea fiind cel din 1829.
+    "Tulcea": [
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tulcea_1896.JPG",
+        "text": `Cele mai vechi urme de locuire din zona orașului datează de acum circa 5–6000 de ani. Prin anii 600–500î.e.n. aici a existat și o cetate getică, care a avut continuitate și după cucerirea romană care a survenit după sfârșitul domniei regelui get Burebista pe la 44î.e.n. Tulcea actuală a fost fondată în dreptul unui vad pe Dunăre în timpul stăpânirii otomane a regiunii, care a început pe la 1420. Fiind mare parte din timp într-o zonă de graniță, orașul a fost adesea distrus în timpul războaielor ruso-turce, ultimul și cel mai distrugător pentru Tulcea fiind cel din 1829.
 
      Începând cu 1839, pentru a demonstra voința de modernizare, sultanii otomani au declanșat reformele denumite Tanzimat. După Războiul Crimeei, în contextul acestora, în regiunea malului drept al cursului inferior al Dunării, Imperiul a organizat vilayetul Dunării, o provincie pe care o dorea un model pentru organizarea altor provincii ale statului multietnic. În cadrul acestui vilayet, Tulcea juca rolul de capitală a subunității administrative ce cuprindea nord-estul extrem: sangeacul Tulcea. S-a construit un palat administrativ unde își avea sediul instituția mutesarifului de sangeac; între 1856 și 1878, postul acesta a fost ocupat succesiv de Suleiman Bei, Resid Paşa, Razim Paşa, Ismail Paşa, Fahri Bei, Ali Bei și Said Bei.
      
@@ -635,32 +635,32 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
      Până la reforma administrativă din anul 1950, Tulcea a fost reședința județului Tulcea (interbelic). După instaurarea regimului comunist în România, Tulcea a devenit reședința unui raion din Regiunea Dobrogea.
      
      După cel de al Doilea Război Mondial, orașul s-a extins și s-a modernizat. În prezent, vatra orașului atinge o suprafață de 115km² și o populație de 68.608 locuitori (în anul 2011). Tulcea este un oraș industrial, port pentru navele de pasageri, precum și pentru cele care transportă produse industriale, mai ales materii prime. `
-  },
+      },
 
 
-],
-"Vaslui": [
-  {
-     "image": "https://mediatur.ro/wp-content/uploads/2020/06/Vaslui.jpg",
-     "text": `Existenţa celor mai vechi aşezări pe teritoriul judeţului Vaslui este demonstrată de descoperirile arheologice din perioada neolitică, dar primele atestări documentare ale unor localităţi au apărut în 1375 şi în documente interne din 1423. În perioada 1435-1442, Vaslui a fost rezidenţa Ţării de Jos şi era considerat a doua citadelă a Moldovei. În 1440, Bogdan al II-lea câştigă în pădurea de la Crasna o importantă bătălie împotriva otomanilor, dar eroismul şi patriotismul locuitorilor acestor meleaguri a fost dovedit în marea bătălie câştigată de Ştefan cel Mare în 1475 la Podul Înalt, bătălie cunoscută în istorie ca fiind cea mai strălucită victorie din istoria militară a României şi cea mai mare victorie europeană împotriva otomanilor, până la asediul Vienei. Între secolele XVII - XVIII, mai multe aşezări vasluiene, au fost prădate şi incendiate de invaziile tătare şi otomane, unele dintre ele fiind complet distruse, cum a fost şi cazul actualei reşedinţe, Vaslui. În secolele care au urmat, locuitorii judeţului au participat activ la bătăliile pentru independenţă şi libertate din 1848, 1858, 1877 şi 1918 fiind recunoscuţi pentru vitejia şi curajul lor, lăsând eroi legendari, precum Peneş Curcanul. În secolul al XX-lea, alături de judeţul Botoşani, pe teritoriul judeţului a izbucnit Răscoala ţărănească din 1907, care a antrenat mai multe localităţi printre care Huşi, Vaslui, Bârlad, Stănileşti, Muntenii de Jos ş.a. `
-  },
+    ],
+    "Vaslui": [
+      {
+        "image": "https://mediatur.ro/wp-content/uploads/2020/06/Vaslui.jpg",
+        "text": `Existenţa celor mai vechi aşezări pe teritoriul judeţului Vaslui este demonstrată de descoperirile arheologice din perioada neolitică, dar primele atestări documentare ale unor localităţi au apărut în 1375 şi în documente interne din 1423. În perioada 1435-1442, Vaslui a fost rezidenţa Ţării de Jos şi era considerat a doua citadelă a Moldovei. În 1440, Bogdan al II-lea câştigă în pădurea de la Crasna o importantă bătălie împotriva otomanilor, dar eroismul şi patriotismul locuitorilor acestor meleaguri a fost dovedit în marea bătălie câştigată de Ştefan cel Mare în 1475 la Podul Înalt, bătălie cunoscută în istorie ca fiind cea mai strălucită victorie din istoria militară a României şi cea mai mare victorie europeană împotriva otomanilor, până la asediul Vienei. Între secolele XVII - XVIII, mai multe aşezări vasluiene, au fost prădate şi incendiate de invaziile tătare şi otomane, unele dintre ele fiind complet distruse, cum a fost şi cazul actualei reşedinţe, Vaslui. În secolele care au urmat, locuitorii judeţului au participat activ la bătăliile pentru independenţă şi libertate din 1848, 1858, 1877 şi 1918 fiind recunoscuţi pentru vitejia şi curajul lor, lăsând eroi legendari, precum Peneş Curcanul. În secolul al XX-lea, alături de judeţul Botoşani, pe teritoriul judeţului a izbucnit Răscoala ţărănească din 1907, care a antrenat mai multe localităţi printre care Huşi, Vaslui, Bârlad, Stănileşti, Muntenii de Jos ş.a. `
+      },
 
-],
-"Vâlcea": [
-  {
-     "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/4a/7c/24/entree-du-monastere.jpg",
-     "text": `In sudul judeţului la Bugiuleşti comuna Tetoiu s-au găsit cele mai vechi urme de hominizi din Europa, apreciate a fi cu circa 2000000 ani î.Hr. În acest depozit de fosile s-a găsit cea mai veche urmă a existenţei umane pe continentul Europa. Aceasta cunoscută sub numele de "Australanthropus olteniens", reprezintă prima legătură a antropogenezei europene. Aici,pe teritoriul judeţului între 9-12 noiembrie 1330 la Posada, localizată în Ţara Loviştei la Perişani, oştenii lui Basarab I obţin o mare victorie împotriva lui Carol Robert de Anjou regele Ungariei, victorie ce semnează naşterea Ţării Româneşti, prin câştigarea independenţei acestui vechi ţinut faţă de o putere străină.
+    ],
+    "Vâlcea": [
+      {
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/4a/7c/24/entree-du-monastere.jpg",
+        "text": `In sudul judeţului la Bugiuleşti comuna Tetoiu s-au găsit cele mai vechi urme de hominizi din Europa, apreciate a fi cu circa 2000000 ani î.Hr. În acest depozit de fosile s-a găsit cea mai veche urmă a existenţei umane pe continentul Europa. Aceasta cunoscută sub numele de "Australanthropus olteniens", reprezintă prima legătură a antropogenezei europene. Aici,pe teritoriul judeţului între 9-12 noiembrie 1330 la Posada, localizată în Ţara Loviştei la Perişani, oştenii lui Basarab I obţin o mare victorie împotriva lui Carol Robert de Anjou regele Ungariei, victorie ce semnează naşterea Ţării Româneşti, prin câştigarea independenţei acestui vechi ţinut faţă de o putere străină.
 
      Vâlcea este atestat documentar ca judeţ la 8 ianuarie 1392 printr -un act emis de Mircea cel Bătrân, fiind primul judeţ atestat documentar din România.
      
      Radu cel Mare la 1504 înfiinţează la Râmnicu Vâlcea oraş domnesc, Episcopia Râmnicului - Noul Severin, fapt remarcat şi de Paul de Alep care notează că în pereglinările sale găseşte aici o "reşedinţă episcopală".  Prin judeţul Vâlcea la 2 martie 1821 trece în drumul său către Bucureşti cu armata sa de panduri Tudor Vladimirescu. A poposit pe pridvorul şcolii săteşti din Beneşti pe Olteţ înfiinţată la 1750 de dascălul grec Hristodor. Această şcoală la 1838 se va transforma în şcoală preparandă, adică şcoală care pregătea învăţători rurali pentru satele plasei Olteţu. `
-  },
+      },
 
-],
-"Vrancea": [
-  {
-     "image": "https://img.bunadimineata.ro/uploads/2016/03/teatrul-din-focsani_24155124.jpg",
-     "text": `La 24 aprilie 1574, la Jilişte, lângă Focşani, Ion Vodă cel Cumplit (1572 – 1574) a obţinut o victorie strălucită împotriva oştilor turceşti. Istoria consemnează în aceste locuri şi alte evenimente memorabile: trecerea prin Ţinutul Putnei şi prin Focşani a lui Mihai Viteazul în 1600, în drumul său victorios pentru realizarea visului unirii într-un singur stat a Ţării Româneşti, Moldovei şi Transilvaniei.
+    ],
+    "Vrancea": [
+      {
+        "image": "https://img.bunadimineata.ro/uploads/2016/03/teatrul-din-focsani_24155124.jpg",
+        "text": `La 24 aprilie 1574, la Jilişte, lângă Focşani, Ion Vodă cel Cumplit (1572 – 1574) a obţinut o victorie strălucită împotriva oştilor turceşti. Istoria consemnează în aceste locuri şi alte evenimente memorabile: trecerea prin Ţinutul Putnei şi prin Focşani a lui Mihai Viteazul în 1600, în drumul său victorios pentru realizarea visului unirii într-un singur stat a Ţării Româneşti, Moldovei şi Transilvaniei.
 
      Între anii 1714 şi 1734, vrâncenii au luptat împotriva cotropirii de către maghiari a unor munţi dăruiţi lor de către marele Voievod, iar în primele două decenii ale secolului XIX au luptat pentru ieşirea din „boieresc”, Vrancea fiind făcută danie vistiernicului Iordache Russet Roznovanu de către domnitorul Constantin Ipsilanti. Între evenimentele de seamă petrecute pe teritoriul judeţului Vrancea menţionăm şi luptele de la Mărtineşti şi Focşani din timpul războiului ruso-turc din 1789.
      
@@ -673,38 +673,38 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
      Primul Război Mondial e consemnat în istoria Vrancei cu litere de aur. Aici se desfăşoară, din Zboina Neagră şi până în Valea Siretului, la Doaga, Muncelu, Cireşoaia, Străoane, Panciu, Străjescu, luptele eroice din vara anului 1917, care au culminat cu marea bătălie de la Mărăşeşti. În timpul Primului Război Mondial, în iulie-august 1917, Europa a repurtat primele victorii asupra Germaniei pe câmpurile de luptă de la Mărăşti şi Mărăşeşti, aici, în Vrancea. Aceste victorii au dus la desăvârşirea statului naţional unitar român la 1 Decembrie 1918.
      
      Vrancea este locul cu cele mai importante memoriale şi mausolee ridicate în onoarea jertfei eroilor Primului Război Mondial: Mărăşti, Mărăşeşti, Soveja şi Focşani. Ca semn de recunoaştere a sacrificiilor făcute de oraşul Mărăşeşti, în august 1917, guvernul francez i-a acordat, doi ani mai tarziu, Crucea de Război a Franţei.`
-  },
+      },
 
 
-],
+    ],
 
-"Brașov": [
-  {
-     "image": "https://cdn.cluj.com/ghidlocalcom/sites/6/2019/10/brasov-in-35-totografii-istorice-31.jpg",
-     "text": `Brasov este o oraș din România cu o istorie bogată care se datorează încă din secolul al XIII-lea. A fost fondat de Cârcotașii Teutonici în 1211 și a devenit un important centru al comerțului și al industriei în Transilvania. În timpul dominației habsburgice, orașul a cunoscut o perioadă de dezvoltare economică și culturală, fiind cunoscut sub numele de "Micul Paris".
+    "Brașov": [
+      {
+        "image": "https://cdn.cluj.com/ghidlocalcom/sites/6/2019/10/brasov-in-35-totografii-istorice-31.jpg",
+        "text": `Brasov este o oraș din România cu o istorie bogată care se datorează încă din secolul al XIII-lea. A fost fondat de Cârcotașii Teutonici în 1211 și a devenit un important centru al comerțului și al industriei în Transilvania. În timpul dominației habsburgice, orașul a cunoscut o perioadă de dezvoltare economică și culturală, fiind cunoscut sub numele de "Micul Paris".
 
      În timpul celui de-al Doilea Război Mondial, orașul a fost ocupat de forțele germane și a suferit daune semnificative. După război, a început o perioadă de reconstrucție și modernizare. În comunism, orașul a continuat să se dezvolte ca un important centru industrial și cultural.
      
      După căderea comunismului, orașul a început să se reîntoarcă la tradițiile și valorile sale istorice, transformându-se într-un important centru turistic și cultural în România. Astăzi, Brasov este cunoscut pentru istoria sa și arhitectura sa deosebită, incluzând biserici medievale, fortificații și clădiri gotice.`,
-     "title": "Brașov"
-  },
+        "title": "Brașov"
+      },
 
-],
+    ],
 
-"Mehedinți": [
-  {
-     "image": "https://img.bunadimineata.ro/uploads/2015/09/decebal-rex_44309654-1024x683.jpg",
-     "text": `Mehedinți este un județ din sud-vestul României, situat pe malul drept al Dunării. Regiunea a fost locuită din antichitate și a avut o istorie diversă, care include perioade de subordonare la diferite imperii și state medievale, precum și participarea la războaie și conflicte regionale.
+    "Mehedinți": [
+      {
+        "image": "https://img.bunadimineata.ro/uploads/2015/09/decebal-rex_44309654-1024x683.jpg",
+        "text": `Mehedinți este un județ din sud-vestul României, situat pe malul drept al Dunării. Regiunea a fost locuită din antichitate și a avut o istorie diversă, care include perioade de subordonare la diferite imperii și state medievale, precum și participarea la războaie și conflicte regionale.
 
      În perioada medievală, regiunea a fost controlată de mai multe state, inclusiv de către Regatul Munteniei și de către Imperiul Otoman. În secolul al XIX-lea, Mehedinți a devenit parte a Principatelor Unite ale României și apoi a României moderne.
      
      În perioada comunistă, județul a continuat să se dezvolte ca o regiune importantă de agricultură și industrie, dar a suferit de asemenea de sub dezvoltarea neregulată și degradarea mediului. După căderea comunismului, județul a început să se reîntoarcă la tradițiile și valorile sale culturale, precum și să se concentreze pe dezvoltarea durabilă și protejarea mediului.
      
      Astăzi, Mehedinți este cunoscut pentru frumusețea și diversitatea pașunilor sale, precum și pentru monumentele istorice și siturile arheologice din regiune.`,
-     "title": "Mehedinți"
-  },
+        "title": "Mehedinți"
+      },
 
-],
+    ],
 
   }
 
@@ -724,21 +724,21 @@ Astăzi, judetul Ilfov este cunoscut ca unul dintre cele mai moderne și prosper
       <React.Fragment>
         <SideSheet className="bg-black" isShown={isShown} onCloseComplete={() => setIsShown(false)}>
           <p className="text-2xl mt-2 text-center ml-5">{name}</p>
-          
-          <div className="p-5 mx-auto sm:p-10 md:p-16 dark:bg-gray-800 dark:text-gray-100">
-	<div className="flex flex-col max-w-3xl mx-auto overflow-hidden rounded">
-		<img src={Istorie[name][0]['image']} alt="" className="w-full h-60 sm:h-96 dark:bg-gray-500" />
-		<div className="p-6 pb-12 m-4 mx-auto -mt-16 space-y-6 lg:max-w-2xl sm:px-10 sm:mx-12 lg:rounded-md dark:bg-gray-900">
-			<div className="space-y-2">
-				<a rel="noopener noreferrer" href="#" className="inline-block text-2xl font-semibold sm:text-3xl">{name}</a>
 
-			</div>
-			<div className="dark:text-gray-100">
-				<p>{Istorie[name][0]['text']}</p>
-			</div>
-		</div>
-	</div>
-</div>
+          <div className="p-5 mx-auto sm:p-10 md:p-16 dark:bg-gray-800 dark:text-gray-100">
+            <div className="flex flex-col max-w-3xl mx-auto overflow-hidden rounded">
+              <img src={Istorie[name][0]['image']} alt="" className="w-full h-60 sm:h-96 dark:bg-gray-500" />
+              <div className="p-6 pb-12 m-4 mx-auto -mt-16 space-y-6 lg:max-w-2xl sm:px-10 sm:mx-12 lg:rounded-md dark:bg-gray-900">
+                <div className="space-y-2">
+                  <a rel="noopener noreferrer" href="#" className="inline-block text-2xl font-semibold sm:text-3xl">{name}</a>
+
+                </div>
+                <div className="dark:text-gray-100">
+                  <p>{Istorie[name][0]['text']}</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </SideSheet>
       </React.Fragment>
       <div className="w-full h-full">

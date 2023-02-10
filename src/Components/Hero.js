@@ -12,8 +12,7 @@ export default function Hero (){
 			<p className="mt-6 mb-8 text-lg sm:mb-12">Alege un judet pentru a incepe
 			</p>
 			<div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
-				<a rel="noopener noreferrer" href="#" className="px-8 py-3 text-lg font-semibold rounded bg-blue-400 text-gray-900">Alege un judet la intamplare</a>
-				<a rel="noopener noreferrer" href="#" className="px-8 py-3 text-lg font-semibold border rounded border-gray-100">Test de cunostinte</a>
+				<a rel="noopener noreferrer" href="https://quizisto.netlify.app" className="px-8 py-3 text-lg font-semibold border rounded border-gray-100">Test de cunostinte</a>
 			</div>
 		</div>
 		<div className="flex w-full h-full">
