@@ -144,7 +144,55 @@ const Map = () => {
     "Argeș": [
       {
         "image": "http://www.autocarhire.ro/wp-content/uploads/2013/05/curtea-de-arges.jpg",
-        "text": ``
+        "text": ` Vechime şi dezvoltare istorică. Judetul Arges si-a luat numele de la râul care-l strabate si pe care Herodot – sec V a. Chr. - îl transcrie Ordessus.
+ 
+
+Asemănarea lui cu actualul nume este vadita, desi legile fonetice nu pot explica o derivatie directa din el. Numele real ar fi avut – dupa Pârvan- un aspect în legatura cu alt nume dacic, cum ar fi Argidava.
+ 
+
+În acesta regiune se afla, la 1247, întâia fromatiune politica româneasca : voievodatul lui Seneslau.
+ 
+
+La 1330, Basarab I si-a mutat capitala de la Câmpulung pe Arges în orasul care s-a numit Curtea-de-Arges.
+ 
+
+Aici a fost începând din 1359 resedinta primei episcopii ortodoxe – mai târziu mitropolie - a Ungrovlahiei si a unei episcopii catolice.
+ 
+
+Monumente istorice. Biserica domneasca din Curtea de Arges, construita la începutul sec XIV, în cel mai pur stil bizantin. Legenda a atribuit-o lui Radu Voda Negru. În interior se pastreaza minunate fresce din epoca de construire a bisericii. Tot aici au fost descoperite 14 morminte ale principilor din familia Basarab. Unul dintre ele apartine lui Basarab I. El a fost gasit îmbracat în bogate haine de cavaler, cu nasturi de argint aurit, decorati cu proria-i stema, cu maragaritare si giuvaeruri de mare pret, între care o pafta de aur reprezentând un castel medieval. Era singurul mormânt neprofanat. În curtea bisericii sunt urmele unui întins palat domnesc.
+ 
+
+Biserica Sân Nicoara din Curtea de Arges, ruinata, construita pe un deal, e din aceeasi epoca. Turnul înalt, construit tot din caramida aparenta ca si biserica, este o dovada ca întreaga constructie avea si un scop militar.
+ 
+
+Biserica episcopala din Curtea de Arges, ctitorie alui Neagoe Basarab la începutul sec XVI, e biserica legendara a lui Manole si a celor noua mesteri mari. De o frumusete vestita în tot rasaritul, ea a fost restaurata la începutul sec XIX de catre arhitectul francez Leconte de Nouy, în asa fel încât numai mormintele lui Neagoe, al sotiei sale si al mitropolitului Anania au scapat neatinse. Tot aici au fost înmormântati Regele Carol I, Regina Elisabeta si Regele Ferdinand I.
+ 
+
+Biserica Sf. Gheorghe ( sau Biserica Domneasca) din Pitesti, înaltata de Constantin Serban Basarab si de sotia sa, doamna Balasa, în anul 1656.
+ 
+
+Biserica Sf. Fecioara (Mavrodolu) din Pitesti, vestita prin bogata ei catapeteasma.
+
+Schitu Trivalea din Pitesti, ctitorie a Mitropolitului Varlaam din sec XVII.
+ 
+
+Biserica din Valea Danului, construita în sec XVIII din piatra, are iconostasul original al bisericii episcopale din Curtea de Arges.
+ 
+
+Biserica din Tutana, înaltata de Mihai Viteazul în 1577, pe când era simplu boier.
+ 
+
+Biserica Cotmeana –Veche a fost construita în sec XIV de Mircea cel Batrân. Usile împaratesti de la altar se pastreaza la Muzeul de Arta Religioasa de la Bucuresti. Biserica a fost reconstruita de Constantin Brâncoveanul.
+ 
+
+Ruinele cetatii Poenari, numita la început Curtea Argesului, considerata apoi ca cetate a lui Vlad Tepes, îsi înalta si azi o chindie pe o culme de deal. Este, probabil, o asezare înaintata a cavalerilor teutoni stabiliti în Tara Bârsei, în sec XIII.
+ 
+
+Biserica din Golesti, înaltata în sec XVII.
+ 
+
+“Masa lui Traian », este o imensa lespede rotunda, pe malul Oltului, unde legenda spune ca ar fi poposit Traian si apoi Mihai Viteazul.
+`
       },
 
     ],
