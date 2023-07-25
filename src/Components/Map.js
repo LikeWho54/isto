@@ -24,7 +24,7 @@ const Map = () => {
     
         Așezări urbane: Municipiul Cluj-Napoca este cel mai mare oraș și reședința județului Cluj. Este un important centru cultural, academic și economic, fiind cunoscut și sub numele de "capitala Transilvaniei". Alte orașe importante din județ includ Turda, Dej, Câmpia Turzii și Gherla.
     
-        Obiective turistice: Județul Cluj oferă numeroase atracții turistice, cum ar fi Cetatea Dejului, Cetatea din Turda, Cheile Turzii, Salina Turda și Cetatea Făgetului.`  },
+        Obiective turistice: Județul Cluj oferă numeroase atracții turistice, cum ar fi Cetatea Dejului, Cetatea din Turda, Cheile Turzii, Salina Turda și Cetatea Făgetului. https://www.canva.com/design/DAFpiOcwtUI/91JOYaO7S1CH3XIZsJ8Z3Q/edit?utm_content=DAFpiOcwtUI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`  },
 
     ],
     "Maramureș": [
